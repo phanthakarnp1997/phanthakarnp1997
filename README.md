@@ -4,10 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 > **Software Developer**
 
 <div align="center">
-  <a href="https://devtechnosys.com/insights/wp-content/uploads/2020/09/software-development-gif.gif">
-    <img src="https://devtechnosys.com/insights/wp-content/uploads/2020/09/software-development-gif.gif" alt="Software Development GIF" width="500">
-  </a>
+  <img src="https://devtechnosys.com/insights/wp-content/uploads/2020/09/software-development-gif.gif" alt="Software Development GIF" width="500">
 </div>
+
 
 
 # About Me
