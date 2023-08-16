@@ -1,18 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Phanthakarn Plukpanya (Dew)
 =============================================================================================================================================
 
-Software Developer
+> **Software Developer**
 
 ![](https://devtechnosys.com/insights/wp-content/uploads/2020/09/software-development-gif.gif)
-------------------
 
+# About Me
 Greetings, I am Dew, an experienced software developer with a passion for problem-solving. I am eager to expand my knowledge of cutting-edge technologies and embrace fresh challenges to further enhance my skillset.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [phanthakarn.plukpanya@gmail.com](mailto:phanthakarn.plukpanya@gmail.com)
 * 🧠  I'm learning a new framework
 
-### Skills
+# Skills
 
 | Skills            | Techs & Tools |
 |-------------------|---------------|
@@ -23,8 +23,6 @@ Greetings, I am Dew, an experienced software developer with a passion for proble
 | Containerization  | <code><a href="#" target="_blank" rel="noreferrer"><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" title="Docker" alt="Docker" width="50" height="50"/></a></code> |
 | Database          | <code><a href="#" target="_blank" rel="noreferrer"><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_251be2af3ae607c45c14e816eaa1cf41/postgresql.png" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/></a></code> <code><a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" title="MySQL" alt="MySQL" width="50" height="50"/></a></code> <code><a href="#" target="_blank" rel="noreferrer"><img src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-8.png" title="MS SQL" alt="MS SQL" width="50" height="50"/></a></code> <code><a href="#" target="_blank" rel="noreferrer"><img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png" title="MongoDB" alt="MongoDB" width="50" height="50"/></a></code> |
 
-
-
-### Socials
+# Socials
 
 <p align="left"> <a href="https://www.github.com/phanthakarnp1997" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/phanthakarn-plukpanya-358863193" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
